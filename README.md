@@ -41,7 +41,7 @@ P
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
-<img width="1020" height="725" alt="Screenshot 2026-11-16 123532" src="https://github.com/user-attachments/assets/68b51e12-cd3d-4d99-bedc-a09f5dd3ab9a" />
+<img width="1020" height="725" alt="Screenshot 2026-11-16 123532" src="https://github.com/user-attachments/assets/e38cf43e-d568-42e1-93ef-da641ff00431" />
 
 
 ## RESULT:
